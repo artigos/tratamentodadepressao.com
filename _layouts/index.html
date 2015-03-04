@@ -1,0 +1,17 @@
+{% include top.html %}
+
+<body>
+  <div class="wrapper">
+    {% include header.html %}
+
+    <section>
+      {{ content }}
+      {% include ad_block.html %}
+    </section>
+
+    {% include footer.html %}
+  </div>
+  {% include analytics.html %}
+
+</body>
+</html>
