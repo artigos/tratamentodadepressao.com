@@ -4,7 +4,7 @@ title: Tratamento da Depressão
 permalink: depressao-tratamento.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Por todo o mundo, só as doenças cardiovasculares causam mais incapacidade e morte prematura do que a depressão.
 

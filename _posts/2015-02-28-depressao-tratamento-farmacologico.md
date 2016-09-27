@@ -4,7 +4,7 @@ title: Tratamento farmacológico da Depressão
 permalink: depressao-tratamento-farmacologico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os dois principais grupos de fármacos, os antidepressivos tricíclicos e os inibidores selectivos da recaptação da serotonina (SSRIs), são igualmente eficazes como tratamento de primeira linha. Os doentes geralmente toleram melhor os SSRIs do que os antidepressivos tricíclicos ( como é demonstrado pela menor taxa de abandono em ensaios clínicos).
 
@@ -37,9 +37,9 @@ Os doentes devem ser referenciados quando existe:
 * lentidão psicomotora em idosos (pode ser necessária terapêutica electroconvulsiva);
 * factores de co-morbilidade tais como abuso de substâncias ou perturbação da personalidade.
 
-##Duração do tratamento
+## Duração do tratamento
 
 Existe evidência de que os doentes com um primeiro episódio de depressão major devem tomar a medicação durante 4-6 meses (12 meses nos idosos') após a remissão dos sintomas para minimizar o risco de recaída. '2 Os doentes que tiveram vários episódios de depressão major podem ter que fazer períodos mais longos de tratamento. Obviamente, quanto menos efeitos secundários, maior a probabilidade de o doente continuar a medicação.
-##Paragem do tratamento
+## Paragem do tratamento
 
 É sensato não parar o tratamento abruptamente, especialmente com a paroxetina e a venlafaxina, pois podem ocorrer reacções de privação. Estas incluem desconforto abdominal, insónias, tonturas e sintomas gastrointestinais e duram aproximadamente 2 semanas. Se um doente estiver a tomar mais do que a dose standard destes fármacos há mais de 6 meses, é prudente reduzir progressivamente a medicação durante 6 semanas ou mais. A fluoxetina tem uma semi-vida tão longa que as reacções de privação são raras.

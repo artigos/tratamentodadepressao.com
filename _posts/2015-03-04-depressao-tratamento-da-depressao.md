@@ -4,7 +4,7 @@ title: Tratamento da Depressão
 permalink: depressao-tratamento-da-depressao.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 No Reino Unido, a depressão é o terceiro motivo mais frequente de consultas de clínica geral. Afecta uma em cada cinco pessoas.
 

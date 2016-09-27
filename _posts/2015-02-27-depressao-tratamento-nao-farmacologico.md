@@ -4,7 +4,7 @@ title: Tratamento não farmacológico
 permalink: depressao-tratamento-nao-farmacologico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os clínicos gerais podem fazer psicoterapia não específica (apoio, explicação e encorajamento) como parte dos cuidados normais de empatia. A "resolução de problemas" é uma técnica eficaz para ajudar os doentes a encontrar uma solução para a sua angústia. Ajudar os doentes a resolver os problemas sociais, de alojamento e da segurança social pode ser útil.
 

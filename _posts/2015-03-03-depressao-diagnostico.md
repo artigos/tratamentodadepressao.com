@@ -4,7 +4,7 @@ title: Diagnóstico da Depressão
 permalink: depressao-diagnostico.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Os sintomas de depressão variam desde o humor deprimido até uma doença psicótica grave. A distimia é um estado depressivo ligeiro e crónico com duração superior a dois anos.
 

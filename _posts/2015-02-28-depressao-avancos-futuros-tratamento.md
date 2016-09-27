@@ -4,7 +4,7 @@ title: Avanços futuros no tratamento
 permalink: depressao-avancos-futuros-tratamento.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 As orientações mais recentes do NICE sugerem que a terapia cognitivo comportamental computorizada poderia ser uma forma eficaz de psicoterapia, mas conclui que é necessária mais investigação.
 

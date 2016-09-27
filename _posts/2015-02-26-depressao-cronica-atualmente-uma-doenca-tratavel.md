@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Depressão Crónica&#58; atualmente, uma doença tratável
+title: Depressão Crónica&# 58; atualmente, uma doença tratável
 permalink: depressao-cronica-atualmente-uma-doenca-tratavel
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 Nos 35 anos decorridos desde que os medicamentos antidepressivos passaram a estar disponíveis, a depressão major aguda tem sido extensamente estudada e o seu impacto caracterizado. Embora a depressão tenha sido tradicionalmente considerada uma situação episódica, aguda, as evidências reunidas durante as últimas duas décadas tem demonstrado, de forma crescente que, mais frequentemente, a depressão é uma doença crónica, recorrente, que pode durar toda a vida. Um estudo prospectivo com 10 anos de duração efectuado em doentes tratados para a depressão aguda verificou que:
 

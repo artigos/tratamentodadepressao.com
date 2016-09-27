@@ -4,7 +4,7 @@ title: Psicoterapia na Depressão
 permalink: depressao-tratamento/psicoterapia.html
 ---
 
-#{{ page.title }}
+# {{ page.title }}
 
 O tratamento actualmente considerado de primeira linha para a depressão major aguda não inclui tipicamente a psicoterapia. Contudo, para a depressão crónica, muitos investigadores verificaram que se observavam melhores taxas de resposta quando a terapêutica farmacológica era acompanhada por uma psicoterapia dirigida, a curto prazo. Os resultados preliminares dum estudo envolvendo 662 indivíduos comparando o tratamento com a nefazodona isolada, a psicoterapia isolada ou uma associação das duas foram apresentados em Maio de 1999 na reunião anual da American Psychiatric Association.' Desses doentes, que apresentavam uma depressão major crónica ou uma depressão dupla, aproximadamente 55% responderam à medicação ou à psicoterapia isoladas, enquanto que 80% responderam ao tratamento combinado.
 
