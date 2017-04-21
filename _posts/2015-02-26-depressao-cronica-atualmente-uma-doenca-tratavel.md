@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Depressão Crónica&# 58; atualmente, uma doença tratável
+title: Depressão Crónica - atualmente, uma doença tratável
 permalink: depressao-cronica-atualmente-uma-doenca-tratavel
 ---
 
